@@ -11,9 +11,9 @@ the basic web front end structure
 + install grunt cli, click [here](http://gruntjs.com/getting-started) to know more.
 + install bower cli, click [here](http://bower.io/) to know more
 
+## run commands
 ---
 
-## run commands
 + cd to this project root path
 + run `npm install`
 + run `grunt`
